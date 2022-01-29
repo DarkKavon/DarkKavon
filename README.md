@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @DarkKavon (Kacper Wandel)
-- 👀 I’m interested in Data Engineering using Python, Azure, Docker and SQL
-- 🌱 I’m currently using and learning Python, SQL, Azure Functions, Azure Data Factory, Power Platform
-- 📫 How to reach me? Write kacperwandel@gmail.com or call +48 512 912 284
+👋 Hi, I’m @DarkKavon (Kacper Wandel)<br>
+👀 I’m interested in Data Engineering and Software Development<br>
+🌱 I’m currently using and developing: 
+ - Python
+ - SQL
+ - Docker
+ - Azure: Data Factory, Automation, Functions, Storage
+ - Power Platform
+ 
+📫 How to reach me? Write kacperwandel@gmail.com or call +48 512 912 284<br>
 
 ## Skills
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
@@ -19,5 +25,8 @@
 ![Azure Pipelines](https://img.shields.io/static/v1?style=for-the-badge&message=Azure+Pipelines&color=2560E0&logo=Azure+Pipelines&logoColor=FFFFFF&label=)
 ![Azure DevOps](https://img.shields.io/static/v1?style=for-the-badge&message=Azure+DevOps&color=0078D7&logo=Azure+DevOps&logoColor=FFFFFF&label=)
 
+
+## About me
+I'm Computer Science student @ Poznan University of Technology, working as Junior Data Engineer @ Antdata. I have experience working with commercial clients, developing data-based projects, and fulfilling business needs. I am focused on self-development and growth in IT. Furthermore, I am an extreme sports freak.
 
 
