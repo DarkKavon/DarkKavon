@@ -11,6 +11,7 @@
 
 ## Skills
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
+![Microsoft Azure](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Azure&color=0078D4&logo=Microsoft+Azure&logoColor=FFFFFF&label=)
 ![Microsoft SQL Server](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+SQL+Server&color=CC2927&logo=Microsoft+SQL+Server&logoColor=FFFFFF&label=)
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![Power Apps](https://img.shields.io/static/v1?style=for-the-badge&message=Power+Apps&color=742774&logo=Power+Apps&logoColor=FFFFFF&label=)
@@ -27,6 +28,9 @@
 
 
 ## About me
-I'm Computer Science student @ Poznan University of Technology, working as Junior Data Engineer @ Antdata. I have experience working with commercial clients, developing data-based projects, and fulfilling business needs. I am focused on self-development and growth in IT. Furthermore, I am an extreme sports freak.
+I'm Computer Science student @ Poznan University of Technology who is working as Junior Data Engineer @ Antdata. I have experience working in commercial projects, developing data-based projects, and fulfilling clients' business needs. I am focused on self-development and growth in IT. <br>
+In free time I love doing Brasilian Jiu Jitsu and cycling. Coffee enthusiasts and huge music freak.
+
+Only ![Apple](https://img.shields.io/static/v1?style=for-the-badge&message=Apple&color=000000&logo=Apple&logoColor=FFFFFF&label=) or ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 
 
