@@ -1,10 +1,10 @@
-👋 Hi, I’m @DarkKavon (Kacper Wandel)<br>
+👋 Hi there! I’m @DarkKavon (Kacper Wandel)<br>
 👀 I’m interested in Data Engineering and Software Development<br>
 🌱 I’m currently using and developing: 
  - Python
  - SQL
+ - Azure: Data Factory, Storage, Containers
  - Docker
- - Azure: Data Factory, Automation, Functions, Storage
  - Power Platform
  
 📫 How to reach me? Write kacperwandel@gmail.com or call +48 512 912 284<br>
@@ -28,9 +28,7 @@
 
 
 ## About me
-I'm Computer Science student @ Poznan University of Technology who is working as Junior Data Engineer @ Antdata. I have experience working in commercial projects, developing data-based projects, and fulfilling clients' business needs. I am focused on self-development and growth in IT. <br>
+I'm Computer Science student @ Poznan University of Technology and Junior Data Engineer @ Antdata. I have experience working in commercial projects, developing data-based projects, and fulfilling clients' business needs. I am focused on self-development and growth in IT. <br>
 In free time I love doing Brasilian Jiu Jitsu and cycling. Coffee enthusiasts and huge music freak.
-
-Only ![Apple](https://img.shields.io/static/v1?style=for-the-badge&message=Apple&color=000000&logo=Apple&logoColor=FFFFFF&label=) or ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 
 
