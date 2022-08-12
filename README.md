@@ -8,6 +8,8 @@
  
 📫 How to reach me? Write kacperwandel@gmail.com or call +48 512 912 284<br>
 
+<img src="https://www.credly.com/badges/2fe2037b-2e2b-4fa3-a615-893a794d5990/public_url">
+
 ## Skills
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 ![Microsoft Azure](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Azure&color=0078D4&logo=Microsoft+Azure&logoColor=FFFFFF&label=)
