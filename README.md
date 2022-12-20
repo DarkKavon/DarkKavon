@@ -1,10 +1,11 @@
 👋 Hi all! I’m @DarkKavon (Kacper Wandel)<br>
-👀 I’m Software Engineer in Data Team @ Capgemini<br>
-🌱 I’m currently using and developing: 
+👀 I’m Software Engineer in Insights & Data Team @ Capgemini<br>
+🌱 I’m currently using and growing in: 
  - Python
  - PySpark (Spark)
  - SQL
  - Azure: Databricks, Data Factory, Storage, SQL
+ - Azure DevOps
  - Docker
  
 📫 How to reach me? Write kacperwandel@gmail.com or call +48 512 912 284<br>
