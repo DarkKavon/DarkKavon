@@ -2,11 +2,11 @@
 👀 I’m Software Engineer in Insights & Data Team @ Capgemini<br>
 🌱 I’m currently using and growing in: 
  - Python
- - PySpark (Spark)
+ - Apache Spark
  - SQL
- - Azure: Databricks, Data Factory, Storage, SQL
- - Azure DevOps
- - Docker
+ - Azure: Databricks, Data Factory, Storage, SQL, DevOps
+ - Apache Kafka
+ - Docker + compose
  
 📫 How to reach me? Write kacperwandel@gmail.com or call +48 512 912 284<br>
 
