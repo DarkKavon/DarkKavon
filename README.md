@@ -1,5 +1,5 @@
 👋 Hi all! I’m @DarkKavon (Kacper Wandel)<br>
-👀 I’m Software Engineer in Insights & Data Team @ Capgemini<br>
+👀 I’m Data Engineer @ Kingfisher<br>
 🌱 I’m currently using and growing in: 
  - Python
  - Apache Spark
