@@ -23,7 +23,7 @@
 ![Azure DevOps](https://img.shields.io/static/v1?style=for-the-badge&message=Azure+DevOps&color=0078D7&logo=Azure+DevOps&logoColor=FFFFFF&label=)
 
 ## About me
-I'm Computer Science student @ Poznan University of Technology and Software Engineer in Data Team @ Capgemini. I have lots of expreience developing data-based projects, and fulfilling clients' business needs. I am focused on self-development and growth in IT. <br>
+I'm Data Engineer @ Kingfisher. I have lots of expreience developing data-based projects, and fulfilling clients' business needs. I am focused on self-development and growth in IT. <br>
 In free time I love doing Brasilian Jiu Jitsu and cycling. Also coffee enthusiasts and anime/manga fan and music lover.
 
 
